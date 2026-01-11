@@ -41,7 +41,7 @@ public class WarehouseCapacityValidatorImpl implements WarehouseCapacityValidato
         return requestedCapacity <= capacity.getTotalCapacity();
     }
 
-    private static class LocationCapacity {
+    public static class LocationCapacity {
         private final int maxWarehouses;
         private final int totalCapacity;
 

@@ -17,7 +17,7 @@ public class LegacyStoreManagerGateway {
     writeToFile(store);
   }
 
-  private void writeToFile(Store store) {
+  void writeToFile(Store store) {
     try {
       // Step 1: Create a temporary file
       Path tempFile;
