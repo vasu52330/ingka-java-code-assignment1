@@ -45,7 +45,7 @@ From previous implementations:
 
 **Task**: Discuss potential cost optimization strategies for fulfillment operations and expected outcomes from that. How would you identify, prioritize and implement these strategies?
 
-**Questions you may have:**
+**Questions:**
 1. What is our current cost breakdown by category and which areas offer the biggest optimization potential?
 2. How do our costs compare to industry benchmarks or similar-sized competitors?
 3. What service level agreements (SLAs) cannot be compromised during optimization?
@@ -92,7 +92,7 @@ From previous implementations:
 
 **Task**: Discuss the importance of integrating the Cost Control Tool with financial systems. What benefits the company would have from that and how would you ensure seamless integration and data synchronization?
 
-**Questions you may have:**
+**Questions:**
 1. Which financial systems exist and what are their API capabilities? (SAP, Oracle, NetSuite, custom ERP?)
 2. What synchronization frequency is needed? (Real-time, hourly, daily, or monthly?)
 3. How complex is the mapping between operational cost categories and GL accounts?
@@ -138,7 +138,7 @@ From previous implementations:
 
 **Task**: Discuss the importance of budgeting and forecasting in fulfillment operations and what would you take into account designing a system to support accurate budgeting and forecasting?
 
-**Questions you may have:**
+**Questions:**
 1. Is the primary purpose operational planning, financial planning, or capacity planning?
 2. What planning horizons are needed? (Weekly tactical, monthly operational, annual strategic)
 3. What level of forecast accuracy is needed for effective decision making?
@@ -195,7 +195,7 @@ From previous implementations:
 
 **Task**: Discuss the cost control aspects of replacing a Warehouse. Why is it important to preserve cost history and how this relates to keeping the new Warehouse operation within budget?
 
-**Questions you may have:**
+**Questions:**
 1. What is the business rationale for replacement? (Capacity, technology, location, lease expiration?)
 2. Will operations overlap during transition or is there a hard cutover?
 3. What specific analyses require preserved cost history?
